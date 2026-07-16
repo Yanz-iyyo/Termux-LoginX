@@ -50,7 +50,7 @@ echo -e "\033[1m\033[33m
 ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ 
 "
-echo -e  "     \e[1m\e[32m▂▃▄▅▆▇▓▒░ \033[1mCoded By \e[33mMr.X\e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "     \e[1m\e[32m▂▃▄▅▆▇▓▒░ \033[1mCoded By \e[33mTheyanzXD\e[1m\e[32m░▒▓▇▆▅▄▃▂"
 cd $HOME
 cd Termux-LoginX
 cd NETWORK
