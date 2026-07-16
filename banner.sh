@@ -358,10 +358,10 @@ echo -e "\033[32m\033[1m
   \033[33m________________________________________________
 
      \033[1m\033[36mTool Name       \033[32m: \033[33mTermux-loginX
-     \033[1m\033[36mAuthor Name     \033[32m: \033[33mMr.X
-     \033[1m\033[36mGithub          \033[32m: \033[33mhttps://github.com/Whomrx666
-     \033[1m\033[36mCountry         \033[32m: \033[33mIndonesian
-     \033[1m\033[36mState           \033[32m: \033[33mJakarta selatan
+     \033[1m\033[36mAuthor Name     \033[32m: \033[33mTheyanzXD
+     \033[1m\033[36mGithub          \033[32m: \033[33mhttps://github.com/TheyanzXD
+     \033[1m\033[36mCountry         \033[32m: \033[33mIndonesia
+     \033[1m\033[36mState           \033[32m: \033[33mBangkinang
   \033[31m________________________________________________
 "
 
